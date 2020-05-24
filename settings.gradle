@@ -1,0 +1,5 @@
+rootProject.name='ScreenRecord'
+include ':app'
+include ':channelcatch'
+include ':plinth'
+include ':stockpile'

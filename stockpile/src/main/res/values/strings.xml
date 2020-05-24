@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="record_start">Start Recording</string>
+    <string name="record_stop">Stop Recording</string>
+    <string name="open_downloads">Open Downloads</string>
+    <string name="tips">TIPS</string>
+    <string name="permissions_and_working">
+        Allow Permissions in first prompt\n
+        All Files saved into Downloads\n
+        Internal Audio Capture only above Android P\n
+        Internal Audio will be captured above Android P\n
+        Video+Mic Video is saved as Record_timestamp.mp4\n
+        Internal Audio are saved as Capture_timestamp.pcm\n
+    </string>
+
+</resources>
