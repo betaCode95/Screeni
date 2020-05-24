@@ -39,8 +39,12 @@ class ChannelCatchForegroundService : PlinthService() {
     }
 
     fun stop() {
-        channelCatchManager?.stop()
-        channelCatchManager = null
+        try {
+            channelCatchManager?.stop()
+            channelCatchManager = null
+        } catch (e: Exception) {
+
+        }
     }
 
     private fun work() {
