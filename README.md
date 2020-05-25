@@ -19,16 +19,16 @@ Minimal/Straightforward architecture as this is supposed to be a demo app
 
 | Feature Name  | Description                                                                                   |
 | ------------- | --------------------------------------------------------------------------------------------- |
-| screen_record | Has a ChannelCatchActivity responsible for channelcatch Module and implement Screen Recording |
+| `screen_record` | Has a ChannelCatchActivity responsible for channelcatch Module and implement Screen Recording |
 
 ## Modules 🧰
 | Module Name              | Description                                                                                                     |
 | ------------------------ | --------------------------------------------------------------------------------------------------------------- |
-| app                      | This is the main of the Application, this run and keeps activities intact                                       |
-| channelcatch             | This is the module responsible for recording screen, internal audio, mic audio based on the Current API Version |
-| plinth                   | Base Components Supplier for the whole app                                                                      |
+| `app`                      | This is the main of the Application, this run and keeps activities intact                                       |
+| `channelcatch`             | This is the module responsible for recording screen, internal audio, mic audio based on the Current API Version |
+| `plinth`                   | Base Components Supplier for the whole app                                                                      |
 | bucker (not implemented) | A Logger that logs all crashes, debugs, analytics, etc                                                          |
-| stockpile                | Repo for all the UI templates                                                                                   |
+| `stockpile`                | Repo for all the UI templates                                                                                   |
 
 ## Configure 🎨
 
