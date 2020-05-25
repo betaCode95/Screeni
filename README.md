@@ -1,6 +1,10 @@
 # Screeni [In Works]
 
-A module that helps in capturing Screen, Mic Audio, Internal Audio
+![Build Status](https://travis-ci.org/ChuckerTeam/chucker.svg?branch=master) ![License](https://img.shields.io/github/license/ChuckerTeam/Chucker.svg) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange.svg)](http://makeapullrequest.com)
+
+![Alt Text](https://media.giphy.com/media/idN3hPagLfoJcnMJ9a/giphy.gif)
+
+A module that helps in capturing Screen, Internal Audio (Only starting from Android P), Mic Audio
 * [Overview](#overview-)
 * [Architecture](#architecture-)
 * [Features](#features-)
@@ -13,7 +17,7 @@ A module that helps in capturing Screen, Mic Audio, Internal Audio
 We shall follow a Modular Mechanism to implement the flow of the App. This makes the App easier to scale
 
 ## Architecture 🧰
-Minimal/Straightforward architecture as this is supposed to be a demo app
+Minimal/Modular/Straightforward architecture as this is supposed to be a demo app
 
 ## Features 🧰
 
