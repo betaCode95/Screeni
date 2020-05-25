@@ -32,6 +32,9 @@ Minimal/Straightforward architecture as this is supposed to be a demo app
 | stockpile                | Repo for all the UI templates                                                                                   |
 
 ## Configure 🎨
+
+`channelcatch` module is a independent module and can be used in any app. Can be made public and used out of the box for any app. How to implement `channelcatch` module?
+
 Following needs to be added in the app's `AndroidManifest` root
 
 ```xml
@@ -82,6 +85,11 @@ Start Capturing Screen
 End Capturing Screen
 ```kotlin
 	channelCaptureHelper.end(application)
+```
+
+Default `RecordSpeification`. You can create a new `RecordSpecification` object to change any of these
+```kotlin
+
 ```
 
 
