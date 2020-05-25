@@ -1,7 +1,6 @@
 # Screeni [In Works]
 
-A module that helps in syncing locations
-
+A module that helps in capturing Screen, Mic Audio, Internal Audio
 * [Overview](#overview-)
 * [Architecture](#architecture-)
 * [Features](#features-)
